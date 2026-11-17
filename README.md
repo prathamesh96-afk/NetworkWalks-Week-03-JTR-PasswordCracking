@@ -26,7 +26,7 @@ This week's practical exercises focused on password security, password-protected
 
 Screenshot documenting the John the Ripper settings used in the lab.
 
-![Settings JTR](Screenshots/Settings_JTR.png)
+![Settings JTR](Screenshots/Settings JTR.png)
 
 ### 2. Hash Extract
 
