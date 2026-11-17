@@ -30,7 +30,7 @@ The work is performed in an authorized practice environment using a practice PDF
 ## Repository Structure
 
 ```text
-John-The-Ripper-PDF-Password-Audit/
+NetworkWalks-Week-03-JTR-PasswordCracking/
 │
 ├── README.md
 ├── Screenshots/
