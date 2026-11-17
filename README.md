@@ -33,10 +33,7 @@ The work is performed in an authorized practice environment using a practice PDF
 John-The-Ripper-PDF-Password-Audit/
 │
 ├── README.md
-├── Documentation/
 ├── Screenshots/
-├── Lab-Report/
-└── Disclaimer.md
 ```
 
 ## Practical Documentation
