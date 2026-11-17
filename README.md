@@ -20,17 +20,17 @@ This week's practical exercises focused on password security, password-protected
 
 ## Practical Work and Screenshots
 
-### 1. Flag
+### 1. Hash Calculation
 
-Screenshot from the flag-related practical exercise.
+Practical exercise related to hash calculation.
 
-![Flag](Screenshots/Flag.png)
+![Hash Calculation](Screenshots/Hash_Calculation.png)
 
-### 2. Locked PDF
+### 2. Hash
 
-Practical exercise involving a password-protected PDF file.
+Screenshot of the hash-related practical exercise.
 
-![Locked PDF](Screenshots/Locked_pdf.png)
+![Hash](Screenshots/Hash.png)
 
 ### 3. Password Crack – John the Ripper
 
@@ -38,17 +38,17 @@ Practical exercise using John the Ripper in an authorized lab environment.
 
 ![Password Crack](Screenshots/Password_Crack.png)
 
-### 4. Hash
+### 4. Locked PDF
 
-Screenshot of the hash-related practical exercise.
+Practical exercise involving a password-protected PDF file.
 
-![Hash](Screenshots/Hash.png)
+![Locked PDF](Screenshots/Locked_pdf.png)
 
-### 5. Hash Calculation
+### 5. Flag
 
-Practical exercise related to hash calculation.
+Screenshot from the flag-related practical exercise.
 
-![Hash Calculation](Screenshots/Hash_Calculation.png)
+![Flag](Screenshots/Flag.png)
 
 ## Learning Outcomes
 
@@ -69,11 +69,11 @@ NetworkWalks-Week-03-Password-Security/
 │
 ├── README.md
 └── Screenshots/
-    ├── Flag.png
-    ├── Locked_pdf.png
-    ├── Password_Crack.png
+    ├── Hash_Calculation.png
     ├── Hash.png
-    └── Hash_Calculation.png
+    ├── Password_Crack.png
+    ├── Locked_pdf.png
+    └── Flag.png
 ```
 
 ## Disclaimer
