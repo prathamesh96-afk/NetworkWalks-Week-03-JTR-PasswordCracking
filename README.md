@@ -24,7 +24,7 @@ The work is performed in an authorized practice environment using a practice PDF
 | Operating System | Windows |
 | Tool | John the Ripper |
 | Installation Directory | `C:\john\run` |
-| Interface | Command Line |
+| Interface | Graphical Unit Interface |
 | Practice Material | Authorized practice PDF |
 
 ## Repository Structure
